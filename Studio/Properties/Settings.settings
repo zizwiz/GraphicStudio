@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Studio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="left" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="top" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">973</Value>
+    </Setting>
+    <Setting Name="height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">543</Value>
+    </Setting>
+    <Setting Name="RAIF_directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RAIF_scale" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="RAIF_height" Type="System.String" Scope="User">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+    <Setting Name="RAIF_width" Type="System.String" Scope="User">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
